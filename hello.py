@@ -9,8 +9,3 @@ def hello():
 @app.route("/tiide")
 def tiide():
     return "Welcome to TIIDE World"
-@app.route("/tiide")
-greeting="Hello Dear..."
-def ok():
-    return greeting
-    
